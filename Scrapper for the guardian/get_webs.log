@@ -1,0 +1,23 @@
+2026-03-14 20:47:21,143 - INFO - requesting https://www.theguardian.com/sport/winter-olympics?page=1
+2026-03-14 20:47:22,006 - INFO - request success, getting urls
+2026-03-14 20:47:25,009 - INFO - requesting https://www.theguardian.com/sport/winter-olympics?page=2
+2026-03-14 20:47:25,653 - INFO - request success, getting urls
+2026-03-14 20:47:28,661 - INFO - requesting https://www.theguardian.com/sport/winter-olympics?page=3
+2026-03-14 20:47:29,351 - INFO - request success, getting urls
+2026-03-14 20:47:32,354 - INFO - requesting https://www.theguardian.com/sport/winter-olympics?page=4
+2026-03-14 20:47:33,359 - INFO - request success, getting urls
+2026-03-14 20:47:36,363 - INFO - requesting https://www.theguardian.com/sport/winter-olympics?page=5
+2026-03-14 20:47:37,096 - INFO - request success, getting urls
+2026-03-14 20:47:40,109 - INFO - saving to json
+2026-03-14 20:51:03,216 - INFO - requesting https://www.theguardian.com/sport/winter-olympics?page=1
+2026-03-14 20:51:04,112 - INFO - request success, getting urls
+2026-03-14 20:51:07,115 - INFO - requesting https://www.theguardian.com/sport/winter-olympics?page=2
+2026-03-14 20:51:08,184 - INFO - request success, getting urls
+2026-03-14 20:51:11,191 - INFO - requesting https://www.theguardian.com/sport/winter-olympics?page=3
+2026-03-14 20:51:11,876 - INFO - request success, getting urls
+2026-03-14 20:51:14,888 - INFO - requesting https://www.theguardian.com/sport/winter-olympics?page=4
+2026-03-14 20:51:16,053 - INFO - request success, getting urls
+2026-03-14 20:51:19,071 - INFO - requesting https://www.theguardian.com/sport/winter-olympics?page=5
+2026-03-14 20:51:20,583 - INFO - request success, getting urls
+2026-03-14 20:51:23,596 - INFO - Total URLs collected: 94
+2026-03-14 20:51:23,596 - INFO - saving to json
