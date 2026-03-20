@@ -118,6 +118,7 @@ if __name__ == "__main__":
     all_scraped_data.extend(wiki_data)
 
     # Added a 4th page here just to guarantee The Guardian hits 40+ all on its own!
+    """
     guardian_urls = [
         "https://www.theguardian.com/sport/winter-olympics?page=1",
         "https://www.theguardian.com/sport/winter-olympics?page=2",
@@ -126,6 +127,7 @@ if __name__ == "__main__":
     ]
     guardian_data = brute_force_scrape("The Guardian", guardian_urls, is_wiki=False)
     all_scraped_data.extend(guardian_data)
+    """
 
     with open('selenium_articles_data.json', 'w', encoding='utf-8') as f:
         json.dump(all_scraped_data, f, indent=4)
