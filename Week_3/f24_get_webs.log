@@ -1,0 +1,12 @@
+2026-03-21 20:11:23,014 - INFO - requesting https://www.france24.com/en/tag/2026-winter-olympics/?page=1
+2026-03-21 20:11:23,377 - INFO - request success, getting urls
+2026-03-21 20:11:26,379 - INFO - requesting https://www.france24.com/en/tag/2026-winter-olympics/?page=2
+2026-03-21 20:11:26,665 - INFO - request success, getting urls
+2026-03-21 20:11:29,667 - INFO - requesting https://www.france24.com/en/tag/2026-winter-olympics/?page=3
+2026-03-21 20:11:29,954 - INFO - request success, getting urls
+2026-03-21 20:11:32,956 - INFO - requesting https://www.france24.com/en/tag/2026-winter-olympics/?page=4
+2026-03-21 20:11:33,200 - INFO - request success, getting urls
+2026-03-21 20:11:36,202 - INFO - requesting https://www.france24.com/en/tag/2026-winter-olympics/?page=5
+2026-03-21 20:11:36,440 - INFO - request success, getting urls
+2026-03-21 20:11:39,442 - INFO - Total URLs collected: 255
+2026-03-21 20:11:39,443 - INFO - saving to json
