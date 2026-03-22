@@ -1,0 +1,202 @@
+[
+    {
+        "Article_ID": "P1A3",
+        "Target_Nation": "Russia",
+        "Frequency_of_Political_Terms": 4
+    },
+    {
+        "Article_ID": "P1A4",
+        "Target_Nation": "Russia",
+        "Frequency_of_Political_Terms": 8
+    },
+    {
+        "Article_ID": "P1A5",
+        "Target_Nation": "Russia",
+        "Frequency_of_Political_Terms": 9
+    },
+    {
+        "Article_ID": "P1A19",
+        "Target_Nation": "Russia,Ukraine",
+        "Frequency_of_Political_Terms": 8
+    },
+    {
+        "Article_ID": "P1A22",
+        "Target_Nation": "Russia,Belarus",
+        "Frequency_of_Political_Terms": 7
+    },
+    {
+        "Article_ID": "P1A31",
+        "Target_Nation": "Russia",
+        "Frequency_of_Political_Terms": 1
+    },
+    {
+        "Article_ID": "P1A37",
+        "Target_Nation": "Russia,Ukraine",
+        "Frequency_of_Political_Terms": 12
+    },
+    {
+        "Article_ID": "P1A45",
+        "Target_Nation": "Russia,Ukraine",
+        "Frequency_of_Political_Terms": 11
+    },
+    {
+        "Article_ID": "P2A3",
+        "Target_Nation": "Russia",
+        "Frequency_of_Political_Terms": 4
+    },
+    {
+        "Article_ID": "P2A4",
+        "Target_Nation": "Russia",
+        "Frequency_of_Political_Terms": 8
+    },
+    {
+        "Article_ID": "P2A5",
+        "Target_Nation": "Russia",
+        "Frequency_of_Political_Terms": 9
+    },
+    {
+        "Article_ID": "P2A19",
+        "Target_Nation": "Russia,Ukraine",
+        "Frequency_of_Political_Terms": 8
+    },
+    {
+        "Article_ID": "P2A22",
+        "Target_Nation": "Russia,Belarus",
+        "Frequency_of_Political_Terms": 7
+    },
+    {
+        "Article_ID": "P2A31",
+        "Target_Nation": "Russia",
+        "Frequency_of_Political_Terms": 1
+    },
+    {
+        "Article_ID": "P2A37",
+        "Target_Nation": "Russia,Ukraine",
+        "Frequency_of_Political_Terms": 12
+    },
+    {
+        "Article_ID": "P2A45",
+        "Target_Nation": "Russia,Ukraine",
+        "Frequency_of_Political_Terms": 11
+    },
+    {
+        "Article_ID": "P3A3",
+        "Target_Nation": "Russia",
+        "Frequency_of_Political_Terms": 4
+    },
+    {
+        "Article_ID": "P3A4",
+        "Target_Nation": "Russia",
+        "Frequency_of_Political_Terms": 8
+    },
+    {
+        "Article_ID": "P3A5",
+        "Target_Nation": "Russia",
+        "Frequency_of_Political_Terms": 9
+    },
+    {
+        "Article_ID": "P3A19",
+        "Target_Nation": "Russia,Ukraine",
+        "Frequency_of_Political_Terms": 8
+    },
+    {
+        "Article_ID": "P3A22",
+        "Target_Nation": "Russia,Belarus",
+        "Frequency_of_Political_Terms": 7
+    },
+    {
+        "Article_ID": "P3A31",
+        "Target_Nation": "Russia",
+        "Frequency_of_Political_Terms": 1
+    },
+    {
+        "Article_ID": "P3A37",
+        "Target_Nation": "Russia,Ukraine",
+        "Frequency_of_Political_Terms": 12
+    },
+    {
+        "Article_ID": "P3A45",
+        "Target_Nation": "Russia,Ukraine",
+        "Frequency_of_Political_Terms": 11
+    },
+    {
+        "Article_ID": "P4A3",
+        "Target_Nation": "Russia",
+        "Frequency_of_Political_Terms": 4
+    },
+    {
+        "Article_ID": "P4A4",
+        "Target_Nation": "Russia",
+        "Frequency_of_Political_Terms": 8
+    },
+    {
+        "Article_ID": "P4A5",
+        "Target_Nation": "Russia",
+        "Frequency_of_Political_Terms": 9
+    },
+    {
+        "Article_ID": "P4A19",
+        "Target_Nation": "Russia,Ukraine",
+        "Frequency_of_Political_Terms": 8
+    },
+    {
+        "Article_ID": "P4A22",
+        "Target_Nation": "Russia,Belarus",
+        "Frequency_of_Political_Terms": 7
+    },
+    {
+        "Article_ID": "P4A31",
+        "Target_Nation": "Russia",
+        "Frequency_of_Political_Terms": 1
+    },
+    {
+        "Article_ID": "P4A37",
+        "Target_Nation": "Russia,Ukraine",
+        "Frequency_of_Political_Terms": 12
+    },
+    {
+        "Article_ID": "P4A45",
+        "Target_Nation": "Russia,Ukraine",
+        "Frequency_of_Political_Terms": 11
+    },
+    {
+        "Article_ID": "P5A3",
+        "Target_Nation": "Russia",
+        "Frequency_of_Political_Terms": 4
+    },
+    {
+        "Article_ID": "P5A4",
+        "Target_Nation": "Russia",
+        "Frequency_of_Political_Terms": 8
+    },
+    {
+        "Article_ID": "P5A5",
+        "Target_Nation": "Russia",
+        "Frequency_of_Political_Terms": 9
+    },
+    {
+        "Article_ID": "P5A19",
+        "Target_Nation": "Russia,Ukraine",
+        "Frequency_of_Political_Terms": 8
+    },
+    {
+        "Article_ID": "P5A22",
+        "Target_Nation": "Russia,Belarus",
+        "Frequency_of_Political_Terms": 7
+    },
+    {
+        "Article_ID": "P5A31",
+        "Target_Nation": "Russia",
+        "Frequency_of_Political_Terms": 1
+    },
+    {
+        "Article_ID": "P5A37",
+        "Target_Nation": "Russia,Ukraine",
+        "Frequency_of_Political_Terms": 12
+    },
+    {
+        "Article_ID": "P5A45",
+        "Target_Nation": "Russia,Ukraine",
+        "Frequency_of_Political_Terms": 11
+    }
+]
