@@ -1,11 +1,16 @@
 [
     {
-        "Article_ID": "P1A18",
-        "Target_Nation": "Russia",
+        "Article_ID": "P1A19",
+        "Target_Nation": "Russia,Ukraine",
         "Frequency_of_Political_Terms": 21
     },
     {
-        "Article_ID": "P4A18",
+        "Article_ID": "P3A1",
+        "Target_Nation": "Russia,China",
+        "Frequency_of_Political_Terms": 2
+    },
+    {
+        "Article_ID": "P4A19",
         "Target_Nation": "Russia",
         "Frequency_of_Political_Terms": 3
     },
@@ -16,7 +21,7 @@
     },
     {
         "Article_ID": "P5A14",
-        "Target_Nation": "Russia",
+        "Target_Nation": "Russia,Ukraine",
         "Frequency_of_Political_Terms": 4
     }
 ]
