@@ -835,3 +835,193 @@
 2026-03-15 12:50:49,642 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/17/winter-olympics-womens-figure-skating-short-program
 2026-03-15 12:50:53,645 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/17/winter-olympics-womens-figure-skating-short-program#comments
 2026-03-15 12:50:54,496 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/17/winter-olympics-womens-figure-skating-short-program#comments
+2026-03-23 10:39:17,068 - INFO - Starting request for: https://www.theguardian.com/sport/2026/mar/15/lindsey-vonn-says-she-will-retire-on-her-own-terms-please-stop-telling-me-what-i-should
+2026-03-23 10:39:17,470 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/mar/15/lindsey-vonn-says-she-will-retire-on-her-own-terms-please-stop-telling-me-what-i-should
+2026-03-23 10:39:21,473 - INFO - Starting request for: https://www.theguardian.com/sport/2026/mar/07/alysa-liu-withdraws-world-figure-skating-championships-prague
+2026-03-23 10:39:21,963 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/mar/07/alysa-liu-withdraws-world-figure-skating-championships-prague
+2026-03-23 10:39:25,966 - INFO - Starting request for: https://www.theguardian.com/sport/2026/mar/06/amber-glenn-trump-white-house-olympics-refusal
+2026-03-23 10:39:26,487 - ERROR - Unexpected Error for https://www.theguardian.com/sport/2026/mar/06/amber-glenn-trump-white-house-olympics-refusal: list index out of range
+2026-03-23 10:39:30,489 - INFO - Starting request for: https://www.theguardian.com/sport/2026/mar/02/hilary-knight-winter-olympics-ice-hockey-torn-mcl
+2026-03-23 10:39:30,893 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/mar/02/hilary-knight-winter-olympics-ice-hockey-torn-mcl
+2026-03-23 10:39:34,895 - INFO - Starting request for: https://www.theguardian.com/sport/2026/mar/01/hilary-knight-snl-appearance-trump-joke-jack-hughes-ice-hockey
+2026-03-23 10:39:35,288 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/mar/01/hilary-knight-snl-appearance-trump-joke-jack-hughes-ice-hockey
+2026-03-23 10:39:39,290 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/27/flavor-flav-to-host-las-vegas-event-for-winning-us-womens-olympic-ice-hockey-team
+2026-03-23 10:39:39,848 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/27/flavor-flav-to-host-las-vegas-event-for-winning-us-womens-olympic-ice-hockey-team
+2026-03-23 10:39:43,851 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/27/donald-trump-usa-womens-hockey-team-joke-winter-olympics
+2026-03-23 10:39:44,317 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/27/donald-trump-usa-womens-hockey-team-joke-winter-olympics
+2026-03-23 10:39:48,319 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/27/sports-quiz-week-olympic-champions-football-rugby-ice-hockey-skiing-boxing-cricket-motor-racing
+2026-03-23 10:39:49,059 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/27/sports-quiz-week-olympic-champions-football-rugby-ice-hockey-skiing-boxing-cricket-motor-racing
+2026-03-23 10:39:53,061 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/26/brady-tkachuk-decries-white-houses-ai-video-of-him-insulting-canadians-after-us-gold
+2026-03-23 10:39:53,557 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/26/brady-tkachuk-decries-white-houses-ai-video-of-him-insulting-canadians-after-us-gold
+2026-03-23 10:39:57,559 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/26/norway-winter-olympics-message-for-us-all
+2026-03-23 10:39:57,957 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/26/norway-winter-olympics-message-for-us-all
+2026-03-23 10:40:01,959 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/25/distasteful-joke-us-hockey-star-hilary-knight-responds-to-trump-comments-on-womens-team
+2026-03-23 10:40:02,354 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/25/distasteful-joke-us-hockey-star-hilary-knight-responds-to-trump-comments-on-womens-team
+2026-03-23 10:40:06,357 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/25/us-mens-ice-hockey-team-state-of-the-union-trump
+2026-03-23 10:40:06,786 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/25/us-mens-ice-hockey-team-state-of-the-union-trump
+2026-03-23 10:40:10,788 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/24/us-hockey-visit-white-house-trump-minnesota
+2026-03-23 10:40:11,184 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/24/us-hockey-visit-white-house-trump-minnesota
+2026-03-23 10:40:15,187 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/24/usa-hockey-team-gold-kash-patel-donald-trump-state-of-union
+2026-03-23 10:40:15,566 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/24/usa-hockey-team-gold-kash-patel-donald-trump-state-of-union
+2026-03-23 10:40:19,568 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/24/italy-winter-olympics-highlights-magic-joy-tension-camaraderie
+2026-03-23 10:40:19,950 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/24/italy-winter-olympics-highlights-magic-joy-tension-camaraderie
+2026-03-23 10:40:23,952 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/24/if-you-think-politics-shaped-these-winter-olympics-just-wait-until-la-2028
+2026-03-23 10:40:24,336 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/24/if-you-think-politics-shaped-these-winter-olympics-just-wait-until-la-2028
+2026-03-23 10:40:28,338 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/24/winter-olympics-must-tackle-environmental-impact-before-the-snow-runs-out
+2026-03-23 10:40:28,766 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/24/winter-olympics-must-tackle-environmental-impact-before-the-snow-runs-out
+2026-03-23 10:40:32,768 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/23/the-us-moved-away-from-its-heartland-to-set-a-winter-olympics-high-in-italy
+2026-03-23 10:40:33,177 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/23/the-us-moved-away-from-its-heartland-to-set-a-winter-olympics-high-in-italy
+2026-03-23 10:40:37,179 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/23/banned-ukrainian-vladislav-heraskevych-return-glory-helmet-memory-ioc-winter-olympics-2026
+2026-03-23 10:40:37,611 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/23/banned-ukrainian-vladislav-heraskevych-return-glory-helmet-memory-ioc-winter-olympics-2026
+2026-03-23 10:40:41,613 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/23/lindsey-vonn-says-she-almost-had-leg-amputated-after-crash-at-winter-olympics
+2026-03-23 10:40:42,081 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/23/lindsey-vonn-says-she-almost-had-leg-amputated-after-crash-at-winter-olympics
+2026-03-23 10:40:46,083 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/23/highs-lows-guardian-most-memorable-winter-olympics-moments
+2026-03-23 10:40:46,411 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/23/highs-lows-guardian-most-memorable-winter-olympics-moments
+2026-03-23 10:40:50,414 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/24/australias-winter-olympians-ride-waves-of-emotion-after-games
+2026-03-23 10:40:50,948 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/24/australias-winter-olympians-ride-waves-of-emotion-after-games
+2026-03-23 10:40:54,951 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/24/australias-winter-olympians-ride-waves-of-emotion-after-games#comments
+2026-03-23 10:40:55,474 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/24/australias-winter-olympians-ride-waves-of-emotion-after-games#comments
+2026-03-23 10:40:59,477 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/23/tom-jenkins-best-photos-winter-olympics
+2026-03-23 10:41:00,010 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/23/tom-jenkins-best-photos-winter-olympics
+2026-03-23 10:41:04,013 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/23/trump-usa-hockey-call-state-of-union
+2026-03-23 10:41:04,851 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/23/trump-usa-hockey-call-state-of-union
+2026-03-23 10:41:08,853 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/22/winter-olympics-briefing-the-tooth-fairy-brings-gold-as-usa-end-46-year-wait
+2026-03-23 10:41:09,305 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/22/winter-olympics-briefing-the-tooth-fairy-brings-gold-as-usa-end-46-year-wait
+2026-03-23 10:41:13,307 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/23/milano-cortina-winter-olympics-2026-review
+2026-03-23 10:41:13,730 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/23/milano-cortina-winter-olympics-2026-review
+2026-03-23 10:41:17,732 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/22/canada-usa-overtime-winter-olympics-ice-hockey-final
+2026-03-23 10:41:18,138 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/22/canada-usa-overtime-winter-olympics-ice-hockey-final
+2026-03-23 10:41:22,141 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/22/canada-usa-overtime-winter-olympics-ice-hockey-final#comments
+2026-03-23 10:41:22,419 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/22/canada-usa-overtime-winter-olympics-ice-hockey-final#comments
+2026-03-23 10:41:26,421 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/22/team-gb-greatest-performance-winter-olympics-2026-milano-cortina
+2026-03-23 10:41:26,826 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/22/team-gb-greatest-performance-winter-olympics-2026-milano-cortina
+2026-03-23 10:41:30,828 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/22/team-gb-greatest-performance-winter-olympics-2026-milano-cortina#comments
+2026-03-23 10:41:31,222 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/22/team-gb-greatest-performance-winter-olympics-2026-milano-cortina#comments
+2026-03-23 10:41:35,224 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/23/indra-brown-freestyle-skiing-halfpipe-australia-medal-hope-winter-olympics
+2026-03-23 10:41:35,617 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/23/indra-brown-freestyle-skiing-halfpipe-australia-medal-hope-winter-olympics
+2026-03-23 10:41:39,619 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/23/indra-brown-freestyle-skiing-halfpipe-australia-medal-hope-winter-olympics#comments
+2026-03-23 10:41:39,799 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/23/indra-brown-freestyle-skiing-halfpipe-australia-medal-hope-winter-olympics#comments
+2026-03-23 10:41:43,800 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/22/jack-hughes-teeth-olympic-ice-hockey-final-goal
+2026-03-23 10:41:44,201 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/22/jack-hughes-teeth-olympic-ice-hockey-final-goal
+2026-03-23 10:41:48,202 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/22/lindsey-vonn-winter-olympics-skiing-crash
+2026-03-23 10:41:48,585 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/22/lindsey-vonn-winter-olympics-skiing-crash
+2026-03-23 10:41:52,587 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/22/winter-olympics-2026-medal-table-standings-norway
+2026-03-23 10:41:53,071 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/22/winter-olympics-2026-medal-table-standings-norway
+2026-03-23 10:41:57,073 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/22/winter-olympics-2026-medal-table-standings-norway#comments
+2026-03-23 10:41:57,372 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/22/winter-olympics-2026-medal-table-standings-norway#comments
+2026-03-23 10:42:01,374 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/22/usa-canada-hockey-olympic-gold-medal-game-jack-hughes
+2026-03-23 10:42:02,193 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/22/usa-canada-hockey-olympic-gold-medal-game-jack-hughes
+2026-03-23 10:42:06,195 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/22/eileen-gu-freestyle-skiing-halfpipe-gold-zoe-atkin-bronze-great-britain-winter-olympics
+2026-03-23 10:42:06,592 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/22/eileen-gu-freestyle-skiing-halfpipe-gold-zoe-atkin-bronze-great-britain-winter-olympics
+2026-03-23 10:42:10,594 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/22/how-italians-fell-in-love-with-their-winter-olympics-after-gaffes-turned-into-gold
+2026-03-23 10:42:11,290 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/22/how-italians-fell-in-love-with-their-winter-olympics-after-gaffes-turned-into-gold
+2026-03-23 10:42:15,292 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/21/winter-olympics-briefing-klbos-greatness-on-show-with-sixth-gold
+2026-03-23 10:42:15,773 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/21/winter-olympics-briefing-klbos-greatness-on-show-with-sixth-gold
+2026-03-23 10:42:19,776 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/22/the-great-olympic-lie-untold-story-of-winter-games-huge-environmental-impact
+2026-03-23 10:42:20,222 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/22/the-great-olympic-lie-untold-story-of-winter-games-huge-environmental-impact
+2026-03-23 10:42:24,223 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/22/the-great-olympic-lie-untold-story-of-winter-games-huge-environmental-impact#comments
+2026-03-23 10:42:24,689 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/22/the-great-olympic-lie-untold-story-of-winter-games-huge-environmental-impact#comments
+2026-03-23 10:42:28,691 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/22/australia-aerials-danielle-scott-indra-browns-final-delayed
+2026-03-23 10:42:29,097 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/22/australia-aerials-danielle-scott-indra-browns-final-delayed
+2026-03-23 10:42:33,099 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/21/ilia-malinin-performs-to-fear-as-he-completes-cathartic-olympic-gala-routine
+2026-03-23 10:42:33,481 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/21/ilia-malinin-performs-to-fear-as-he-completes-cathartic-olympic-gala-routine
+2026-03-23 10:42:37,482 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/21/heartbreak-for-team-gb-as-canada-take-curling-final-with-last-stone
+2026-03-23 10:42:37,915 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/21/heartbreak-for-team-gb-as-canada-take-curling-final-with-last-stone
+2026-03-23 10:42:41,917 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/21/heartbreak-for-team-gb-as-canada-take-curling-final-with-last-stone#comments
+2026-03-23 10:42:42,313 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/21/heartbreak-for-team-gb-as-canada-take-curling-final-with-last-stone#comments
+2026-03-23 10:42:46,315 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/21/polish-speed-skater-kamila-sellier-undergoes-surgery-after-taking-blade-to-face-at-winter-olympics
+2026-03-23 10:42:46,751 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/21/polish-speed-skater-kamila-sellier-undergoes-surgery-after-taking-blade-to-face-at-winter-olympics
+2026-03-23 10:42:50,754 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/21/jorrit-bergsma-wins-mass-start-to-continue-golden-winter-olympics-for-40-somethings
+2026-03-23 10:42:51,144 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/21/jorrit-bergsma-wins-mass-start-to-continue-golden-winter-olympics-for-40-somethings
+2026-03-23 10:42:55,146 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/21/jorrit-bergsma-wins-mass-start-to-continue-golden-winter-olympics-for-40-somethings#comments
+2026-03-23 10:42:55,526 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/21/jorrit-bergsma-wins-mass-start-to-continue-golden-winter-olympics-for-40-somethings#comments
+2026-03-23 10:42:59,529 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/21/usa-canada-mens-ice-hockey-final-winter-olympics
+2026-03-23 10:42:59,944 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/21/usa-canada-mens-ice-hockey-final-winter-olympics
+2026-03-23 10:43:03,946 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/21/norway-klaebo-historic-record-six-gold-medals-winter-games
+2026-03-23 10:43:04,381 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/21/norway-klaebo-historic-record-six-gold-medals-winter-games
+2026-03-23 10:43:08,382 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/21/norway-klaebo-historic-record-six-gold-medals-winter-games#comments
+2026-03-23 10:43:08,784 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/21/norway-klaebo-historic-record-six-gold-medals-winter-games#comments
+2026-03-23 10:43:12,786 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/21/swedish-biathletes-winter-olympics-waxing-team
+2026-03-23 10:43:13,200 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/21/swedish-biathletes-winter-olympics-waxing-team
+2026-03-23 10:43:17,202 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/21/cheating-penisgate-and-boos-for-vance-the-10-wildest-stories-of-the-winter-olympics
+2026-03-23 10:43:17,680 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/21/cheating-penisgate-and-boos-for-vance-the-10-wildest-stories-of-the-winter-olympics
+2026-03-23 10:43:21,682 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/21/cheating-penisgate-and-boos-for-vance-the-10-wildest-stories-of-the-winter-olympics#comments
+2026-03-23 10:43:22,187 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/21/cheating-penisgate-and-boos-for-vance-the-10-wildest-stories-of-the-winter-olympics#comments
+2026-03-23 10:43:26,189 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/20/winter-olympics-briefing-daniela-maier-fanny-smith-ski-cross
+2026-03-23 10:43:26,650 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/20/winter-olympics-briefing-daniela-maier-fanny-smith-ski-cross
+2026-03-23 10:43:30,652 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/21/swearing-canadians-unfaithful-norwegians-and-other-questions-from-the-winter-olympics
+2026-03-23 10:43:31,083 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/21/swearing-canadians-unfaithful-norwegians-and-other-questions-from-the-winter-olympics
+2026-03-23 10:43:35,086 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/20/usa-canada-mens-hockey-gold-medal-milano-cortina
+2026-03-23 10:43:35,506 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/20/usa-canada-mens-hockey-gold-medal-milano-cortina
+2026-03-23 10:43:39,509 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/20/us-skier-hunter-hess-donald-trump-real-loser-comment-winter-olympics
+2026-03-23 10:43:39,918 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/20/us-skier-hunter-hess-donald-trump-real-loser-comment-winter-olympics
+2026-03-23 10:43:43,920 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/20/olympic-speed-skater-stretchered-blade-cuts-face
+2026-03-23 10:43:44,342 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/20/olympic-speed-skater-stretchered-blade-cuts-face
+2026-03-23 10:43:48,345 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/20/winter-olympics-golden-oldies-fourth-place-pain-sliding-doors-details
+2026-03-23 10:43:48,843 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/20/winter-olympics-golden-oldies-fourth-place-pain-sliding-doors-details
+2026-03-23 10:43:52,845 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/20/winter-olympics-golden-oldies-fourth-place-pain-sliding-doors-details#comments
+2026-03-23 10:43:53,313 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/20/winter-olympics-golden-oldies-fourth-place-pain-sliding-doors-details#comments
+2026-03-23 10:43:57,315 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/20/alysa-liu-olympic-figure-skating-gold
+2026-03-23 10:43:58,065 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/20/alysa-liu-olympic-figure-skating-gold
+2026-03-23 10:44:02,067 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/20/eileen-gu-jd-vance-china-us-olympics
+2026-03-23 10:44:02,590 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/20/eileen-gu-jd-vance-china-us-olympics
+2026-03-23 10:44:06,591 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/20/tell-us-your-highlights-from-the-winter-olympic-games-2026
+2026-03-23 10:44:06,981 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/20/tell-us-your-highlights-from-the-winter-olympic-games-2026
+2026-03-23 10:44:10,984 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/20/clapping-skis-to-the-pulpy-thrash-of-poles-the-winter-olympics-are-an-asmr-wonderland
+2026-03-23 10:44:11,374 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/20/clapping-skis-to-the-pulpy-thrash-of-poles-the-winter-olympics-are-an-asmr-wonderland
+2026-03-23 10:44:15,377 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/20/this-city-shows-up-cleveland-heights-celebrates-laila-edwardss-historic-olympic-gold
+2026-03-23 10:44:15,802 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/20/this-city-shows-up-cleveland-heights-celebrates-laila-edwardss-historic-olympic-gold
+2026-03-23 10:44:19,804 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/20/winter-olympics-briefing-the-need-for-speed-and-a-glut-of-skating-records
+2026-03-23 10:44:20,299 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/20/winter-olympics-briefing-the-need-for-speed-and-a-glut-of-skating-records
+2026-03-23 10:44:24,302 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/20/sports-quiz-week-fa-cup-winter-olympics-hollywood-football-mma-rugby-cricket
+2026-03-23 10:44:24,749 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/20/sports-quiz-week-fa-cup-winter-olympics-hollywood-football-mma-rugby-cricket
+2026-03-23 10:44:28,754 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/19/alysa-liu-figure-skating-winter-olympics-2026
+2026-03-23 10:44:29,178 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/19/alysa-liu-figure-skating-winter-olympics-2026
+2026-03-23 10:44:33,182 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/19/alysa-liu-figure-skating-winter-olympics-2026#comments
+2026-03-23 10:44:33,579 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/19/alysa-liu-figure-skating-winter-olympics-2026#comments
+2026-03-23 10:44:37,582 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/19/britains-curlers-guarantee-a-medal-as-mouat-holds-his-nerve-against-swiss
+2026-03-23 10:44:37,969 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/19/britains-curlers-guarantee-a-medal-as-mouat-holds-his-nerve-against-swiss
+2026-03-23 10:44:41,972 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/19/britains-curlers-guarantee-a-medal-as-mouat-holds-his-nerve-against-swiss#comments
+2026-03-23 10:44:42,172 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/19/britains-curlers-guarantee-a-medal-as-mouat-holds-his-nerve-against-swiss#comments
+2026-03-23 10:44:46,175 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/20/indra-brown-freeski-halfpipe-finals-winter-olympics-2026
+2026-03-23 10:44:46,535 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/20/indra-brown-freeski-halfpipe-finals-winter-olympics-2026
+2026-03-23 10:44:50,538 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/19/usa-canada-womens-ice-hockey-final-winter-olympics
+2026-03-23 10:44:50,918 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/19/usa-canada-womens-ice-hockey-final-winter-olympics
+2026-03-23 10:44:54,920 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/19/jordan-stolz-1500m-speed-skating-winter-olympics
+2026-03-23 10:44:55,342 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/19/jordan-stolz-1500m-speed-skating-winter-olympics
+2026-03-23 10:44:59,344 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/19/an-olympic-miracle-twist-in-conan-doyles-skimo-tale-as-russian-snares-silver
+2026-03-23 10:44:59,825 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/19/an-olympic-miracle-twist-in-conan-doyles-skimo-tale-as-russian-snares-silver
+2026-03-23 10:45:03,876 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/19/winter-olympics-briefing-shiffrins-sublime-showing-delivers-release-of-emotion
+2026-03-23 10:45:04,301 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/19/winter-olympics-briefing-shiffrins-sublime-showing-delivers-release-of-emotion
+2026-03-23 10:45:08,303 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/18/winter-olympics-canada-escape-shock-exit-at-hands-of-czechs-in-mens-ice-hockey
+2026-03-23 10:45:08,787 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/18/winter-olympics-canada-escape-shock-exit-at-hands-of-czechs-in-mens-ice-hockey
+2026-03-23 10:45:12,790 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/18/when-curlers-need-snookers-team-gb-fight-on-at-winter-olympics-after-day-of-drama
+2026-03-23 10:45:13,194 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/18/when-curlers-need-snookers-team-gb-fight-on-at-winter-olympics-after-day-of-drama
+2026-03-23 10:45:17,196 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/19/ally-hickman-fall-snowboard-final-winter-olympics-2026
+2026-03-23 10:45:17,618 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/19/ally-hickman-fall-snowboard-final-winter-olympics-2026
+2026-03-23 10:45:21,620 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/19/danielle-scott-aerials-silver-medal-australia-winter-olympics-2026
+2026-03-23 10:45:22,107 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/19/danielle-scott-aerials-silver-medal-australia-winter-olympics-2026
+2026-03-23 10:45:26,110 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/18/mikaela-shiffrin-winter-olympics-gold-medal-slalom
+2026-03-23 10:45:26,548 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/18/mikaela-shiffrin-winter-olympics-gold-medal-slalom
+2026-03-23 10:45:30,551 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/18/soft-toys-jagged-edge-russia-circling-winter-olympics-los-angeles-2028
+2026-03-23 10:45:30,982 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/18/soft-toys-jagged-edge-russia-circling-winter-olympics-los-angeles-2028
+2026-03-23 10:45:34,985 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/18/dog-winter-olympics-cross-country-skiing
+2026-03-23 10:45:35,372 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/18/dog-winter-olympics-cross-country-skiing
+2026-03-23 10:45:39,375 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/18/mikaela-shiffrin-winter-olympics-slalom-skiing-gold
+2026-03-23 10:45:39,835 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/18/mikaela-shiffrin-winter-olympics-slalom-skiing-gold
+2026-03-23 10:45:43,838 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/18/mikaela-shiffrin-winter-olympics-slalom-skiing-gold#comments
+2026-03-23 10:45:44,274 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/18/mikaela-shiffrin-winter-olympics-slalom-skiing-gold#comments
+2026-03-23 10:45:48,277 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/18/klaebo-record-10th-winter-olympics-gold-norway-win-cross-country-team-sprint
+2026-03-23 10:45:48,722 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/18/klaebo-record-10th-winter-olympics-gold-norway-win-cross-country-team-sprint
+2026-03-23 10:45:52,725 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/18/canada-olympics-medal-drought-comeback
+2026-03-23 10:45:53,244 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/18/canada-olympics-medal-drought-comeback
+2026-03-23 10:45:57,248 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/17/winter-olympics-briefing-italy-blades-of-glory-speed-skating
+2026-03-23 10:45:58,832 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/17/winter-olympics-briefing-italy-blades-of-glory-speed-skating
+2026-03-23 10:46:02,834 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/18/ukraine-skeleton-racer-heraskevych-gifted-200000-winter-olympics-helmet-ban
+2026-03-23 10:46:03,352 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/18/ukraine-skeleton-racer-heraskevych-gifted-200000-winter-olympics-helmet-ban
+2026-03-23 10:46:07,355 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/18/norway-curling-team-party-pants-winter-olympics-2026
+2026-03-23 10:46:07,773 - ERROR - Unexpected Error for https://www.theguardian.com/sport/2026/feb/18/norway-curling-team-party-pants-winter-olympics-2026: list index out of range
+2026-03-23 10:46:11,775 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/17/winter-olympics-womens-figure-skating-short-program
+2026-03-23 10:46:12,220 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/17/winter-olympics-womens-figure-skating-short-program
+2026-03-23 10:46:16,222 - INFO - Starting request for: https://www.theguardian.com/sport/2026/feb/17/winter-olympics-womens-figure-skating-short-program#comments
+2026-03-23 10:46:16,565 - INFO - Successfully scraped: https://www.theguardian.com/sport/2026/feb/17/winter-olympics-womens-figure-skating-short-program#comments
